@@ -1,7 +1,6 @@
 #include <iostream>
 
-// REFERENCE => freeCodeCamp.org
-
+// REFERENCE => https://www.youtube.com/watch?v=8jLOx1hD3_o
 
 int max(int x, int y);  // Function declaration, prototype
 
